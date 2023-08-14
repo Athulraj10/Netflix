@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       {/* <Trail/> */}
+      
       <NavBar/>
       <Banner/>
       <RowPost url={originals} title='Netflix'/>
